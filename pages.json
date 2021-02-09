@@ -1,0 +1,124 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path" : "pages/login/flag"
+		}
+		,{
+			"path" : "pages/login/login"
+		}
+		,{
+			"path": "pages/index/index"
+		}
+	    ,{
+            "path" : "pages/data/data"
+        }
+		,{
+		    "path" : "pages/data/level"
+		}
+		,{
+		    "path" : "pages/data/datainfo"
+		}
+		,{
+		    "path" : "pages/data/asset"
+		}
+        ,{
+            "path" : "pages/service/service"
+        }
+        ,{
+            "path" : "pages/my/my"
+        }
+        ,{
+            "path" : "pages/index/recharge"
+        }
+		,{
+		    "path" : "pages/index/withdrawal"
+		}
+		,{
+		    "path" : "pages/index/exchange"
+		}
+		,{
+		    "path" : "pages/index/exchangea"
+		}
+		,{
+		    "path" : "pages/index/exchangeu"
+		}
+		,{
+		    "path" : "pages/index/invitation"
+		}
+		,{
+		    "path" : "pages/index/mining"
+		}
+		,{
+		    "path" : "pages/index/miningdetails"
+		}
+		,{
+		    "path" : "pages/index/machine"
+		}
+		,{
+		    "path" : "pages/index/history"
+		}
+		,{
+		    "path" : "pages/index/revenue"
+		}
+		,{
+		    "path" : "pages/index/report"
+		}
+		,{
+		    "path" : "pages/my/modify"
+		}
+		,{
+		    "path" : "pages/my/newslist"
+		}
+		,{
+		    "path" : "pages/my/download"
+		}
+		,{
+		    "path" : "pages/my/mywallet"
+		}
+		,{
+		    "path" : "pages/my/accounts"
+		}
+		,{
+		    "path" : "pages/my/proposal"
+		}
+		,{
+		    "path" : "pages/my/team"
+		}
+		,{
+		    "path" : "pages/my/newsdetail"
+		}
+        ,{
+		    "path" : "pages/login/regist"
+		}
+		,{
+		    "path" : "pages/login/forget"
+		}
+        ,{
+            "path" : "pages/service/customer"
+        }
+        ,{
+            "path" : "pages/my/authentication"
+        }
+        ,{
+            "path" : "pages/trade/trade"
+        }
+		,{
+		    "path" : "pages/index/mininginfo"
+		}
+		,{
+		    "path" : "pages/my/feedbacklist"
+		}
+		,{
+		    "path" : "pages/my/feedbackdetail"
+		}
+		,{
+		    "path" : "pages/my/choice"
+		}
+		,{
+		    "path" : "pages/my/class"
+		}
+    ],
+	"globalStyle": {
+		"navigationStyle": "custom"
+	}
+}
